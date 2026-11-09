@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PeppermintGrave | Support & About-171717?style=flat-square&logo=tryhackme&logoColor=4d7ac3" alt="PeppermintGrave | Support & About">
-  <img src="assets/buymeacoffee-banner.png" alt="PeppermintGrave | Buy Me a Coffee" width="100%">
+<img src="assets/buymeacoffee-banner.png" alt="PeppermintGrave | Buy Me a Coffee" width="100%">
 </p>
 
 <h1 align="center">☕ Buy Me a Coffee</h1>
