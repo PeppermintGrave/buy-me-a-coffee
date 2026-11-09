@@ -59,10 +59,10 @@ You can also support my journey by exploring my projects, following my work, or 
 
 <p align="center">
   <a href="https://peppermintgrave.github.io/morphing-sphere/">
-    <img src="https://img.shields.io/badge/MORPHING%20SPHERE-FFDD00?style=for-the-badge&logo=threedotjs&logoColor=171717" alt="Morphing Sphere">
+    <img src="https://img.shields.io/badge/MORPHING%20SPHERE-FFDD00?style=for-the-badge&logo=github&logoColor=171717" alt="Morphing Sphere">
   </a>
   <a href="https://peppermintgrave.github.io/secret-archive/">
-    <img src="https://img.shields.io/badge/SECRET%20ARCHIVE-FFDD00?style=for-the-badge&logo=github&logoColor=171717" alt="Secret Archive">
+    <img src="https://img.shields.io/badge/SECRET%20ARCHIVE-FFDD00?style=for-the-badge&logo=musicbrainz&logoColor=171717" alt="Secret Archive">
   </a>
   <a href="https://peppermintgrave.github.io/music-vault/">
     <img src="https://img.shields.io/badge/MUSIC%20VAULT-FFDD00?style=for-the-badge&logo=musicbrainz&logoColor=171717" alt="Music Vault">
