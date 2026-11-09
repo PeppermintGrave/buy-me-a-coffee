@@ -1,17 +1,23 @@
 # Buy Me a Coffee ☕
 
-If you’re here to buy me a coffee, thank you — I sincerely appreciate your support. Every contribution helps me keep learning, building, and growing.
+If you enjoy my work and would like to support what I do, you can buy me a coffee! Your support helps me continue learning, creating, experimenting, and building new projects under **PeppermintGrave**.
 
-## Support me
+## ☕ Support My Work
 
-If you really like my work, consider supporting me by buying me a coffee. Click on the following link to buy me a coffee. 
-Thank You. Every single support really means a lot to me.
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="PeppermintGrave" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/PeppermintGrave">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
+</a>
 
-## A small note
+Every contribution, no matter the size, is genuinely appreciated. It helps keep my projects moving and motivates me to create more.
 
-There’s no pressure to contribute. Visiting, sharing my work, and offering encouragement all mean a lot, too. Thank you for being here!
+## 💚 A Little Appreciation
+
+There's absolutely no pressure to contribute. Even checking out my projects, sharing my work, or leaving a little encouragement means a lot.
+
+Thank you for being part of the journey!
 
 ---
 
-Made with dedication and love. :P
+<p align="center">
+  Made with dedication and love by <strong>PeppermintGrave</strong> :P
+</p>
