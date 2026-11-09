@@ -19,16 +19,6 @@
 
 ---
 
-## 📖 Table of Contents
-
-- [About](#-about)
-- [Support My Work](#-support-my-work)
-- [Why Your Support Matters](#-why-your-support-matters)
-- [A Little Note](#-a-little-note)
-- [Thank You](#-thank-you)
-
----
-
 ## 🌻 About
 
 Welcome! I'm **PeppermintGrave**, a creator who enjoys learning, experimenting, and bringing ideas to life through different projects.
