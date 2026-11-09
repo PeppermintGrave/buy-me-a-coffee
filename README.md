@@ -28,7 +28,7 @@ This page is a small way to support my creative journey. If you've enjoyed somet
 ## ☕ Support My Work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/PeppermintGrave" target="_blank">
+  <a href="https://www.buymeacoffee.com/PeppermintGrave">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
   </a>
 </p>
@@ -48,15 +48,50 @@ Your support helps me:
 - 🛠️ Experiment, build, and develop new things.
 - 🌱 Keep growing and sharing what I create.
 
-Most importantly, it gives me another reason to keep going.
+Most importantly, it gives me more motivation to keep going.
 
 ## 💛 A Little Note
 
-> There's no pressure to contribute. Your presence here already means something.
+There's no pressure to contribute. Your presence here already means something.
 
-You can also support my journey by visiting my projects, sharing my work, or simply leaving some encouragement.
+You can also support my journey by exploring my projects, following my work, or simply sharing a little encouragement.
 
-Every little gesture counts.
+### 🚀 Explore My Projects
+
+<p align="center">
+  <a href="https://peppermintgrave.github.io/morphing-sphere/">
+    <img src="https://img.shields.io/badge/MORPHING%20SPHERE-FFDD00?style=for-the-badge&logo=threedotjs&logoColor=171717" alt="Morphing Sphere">
+  </a>
+  <a href="https://peppermintgrave.github.io/secret-archive/">
+    <img src="https://img.shields.io/badge/SECRET%20ARCHIVE-FFDD00?style=for-the-badge&logo=github&logoColor=171717" alt="Secret Archive">
+  </a>
+  <a href="https://peppermintgrave.github.io/music-vault/">
+    <img src="https://img.shields.io/badge/MUSIC%20VAULT-FFDD00?style=for-the-badge&logo=musicbrainz&logoColor=171717" alt="Music Vault">
+  </a>
+</p>
+
+### 🌐 Find Me Around
+
+<p align="center">
+  <a href="https://www.youtube.com/@peppermint-grave">
+    <img src="https://img.shields.io/badge/YouTube-FFDD00?style=for-the-badge&logo=youtube&logoColor=171717" alt="YouTube">
+  </a>
+  <a href="https://discord.com/users/1487251721486078153">
+    <img src="https://img.shields.io/badge/Discord-FFDD00?style=for-the-badge&logo=discord&logoColor=171717" alt="Discord">
+  </a>
+  <a href="https://www.twitch.tv/peppermintgrave">
+    <img src="https://img.shields.io/badge/Twitch-FFDD00?style=for-the-badge&logo=twitch&logoColor=171717" alt="Twitch">
+  </a>
+  <a href="https://x.com/NyctophileRealm">
+    <img src="https://img.shields.io/badge/X-FFDD00?style=for-the-badge&logo=x&logoColor=171717" alt="X">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Projects, experiments, music, and everything in between.</sub>
+</p>
+
+> Your support doesn't have to be financial. Visiting my projects, sharing my work, or simply being here means a lot.
 
 ## 🌟 Thank You
 
@@ -69,7 +104,7 @@ Whether you're here to support, discover, or simply take a look around, I'm glad
 <p align="center">
   <strong>Made with dedication and love.</strong>
   <br>
-  <sub>© 2026 PeppermintGrave · All appreciation, always.</sub>
+  <sub>© 2026 PeppermintGrave</sub>
   <br><br>
   <img src="https://img.shields.io/badge/PEPPERMINTGRAVE-171717?style=flat-square&logoColor=FFDD00" alt="PeppermintGrave">
 </p>
