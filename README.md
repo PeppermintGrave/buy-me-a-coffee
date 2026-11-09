@@ -28,7 +28,7 @@ Every contribution, big or small, is genuinely appreciated. It gives me more mot
 
 There's no pressure to contribute. Even visiting my projects, sharing them with others, or leaving a little encouragement means a lot.
 
-Thank you for being here and being part of the journey!
+Thank you for being here and being part of the journey!.
 
 ---
 
