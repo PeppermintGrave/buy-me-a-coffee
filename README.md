@@ -101,9 +101,10 @@ Whether you're here to support, discover, or simply take a look around, I'm glad
 ---
 
 <p align="center">
-  <strong>Made with dedication and love.</strong>
-  <br>
-  <sub>© 2026 PeppermintGrave</sub>
-  <br><br>
-  <img src="https://img.shields.io/badge/PEPPERMINTGRAVE-171717?style=flat-square&logoColor=FFDD00" alt="PeppermintGrave">
+  <a href="https://github.com/PeppermintGrave">
+    <img
+      src="https://img.shields.io/badge/✦%20PeppermintGrave%20✦-101713?style=for-the-badge&logo=leaflet&logoColor=9FE6C0&labelColor=101713&color=FFDD00"
+      alt="PeppermintGrave"
+    >
+  </a>
 </p>
