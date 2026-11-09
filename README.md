@@ -1,20 +1,34 @@
-# Buy Me a Coffee ☕
+<p align="center">
+  <img src="assets/buymeacoffee-banner.png" alt="PeppermintGrave - Buy Me a Coffee" width="100%">
+</p>
 
-If you enjoy my work and would like to support what I do, you can buy me a coffee! Your support helps me continue learning, creating, experimenting, and building new projects under **PeppermintGrave**.
+<h1 align="center">Buy Me a Coffee ☕</h1>
+
+<p align="center">
+  <i>A little support goes a long way.</i>
+</p>
+
+---
+
+If you enjoy my work and would like to support what I do, consider buying me a coffee!
+
+Your support helps me keep learning, experimenting, creating, and building new projects under **PeppermintGrave**.
 
 ## ☕ Support My Work
 
-<a href="https://www.buymeacoffee.com/PeppermintGrave">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60">
-</a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/PeppermintGrave">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
 
-Every contribution, no matter the size, is genuinely appreciated. It helps keep my projects moving and motivates me to create more.
+Every contribution, big or small, is genuinely appreciated. It gives me more motivation to keep creating and sharing my work.
 
-## 💚 A Little Appreciation
+## 💛 A Little Note
 
-There's absolutely no pressure to contribute. Even checking out my projects, sharing my work, or leaving a little encouragement means a lot.
+There's no pressure to contribute. Even visiting my projects, sharing them with others, or leaving a little encouragement means a lot.
 
-Thank you for being part of the journey!
+Thank you for being here and being part of the journey!
 
 ---
 
