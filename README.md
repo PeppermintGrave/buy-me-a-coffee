@@ -2,6 +2,8 @@
 <img src="assets/buymeacoffee-banner.png" alt="PeppermintGrave | Buy Me a Coffee" width="100%">
 </p>
 
+---
+
 <h1 align="center">☕ Buy Me a Coffee</h1>
 
 <p align="center">
