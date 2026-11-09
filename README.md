@@ -14,8 +14,7 @@
   <a href="https://www.buymeacoffee.com/PeppermintGrave">
     <img src="https://img.shields.io/badge/Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Support PeppermintGrave">
   </a>
-  <img src="https://img.shields.io/badge/Made%20with-Creativity-FFDD00?style=for-the-badge&labelColor=171717" alt="Made with Creativity">
-</p>
+  </p>
 
 ---
 
