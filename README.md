@@ -6,7 +6,7 @@ If you’re here to buy me a coffee, thank you — I sincerely appreciate your s
 
 If you really like my work, consider supporting me by buying me a coffee. Click on the following link to buy me a coffee. 
 Thank You. Every single support really means a lot to me.
-**[Buy Me a Coffee](https://buymeacoffee.com/peppermintgrave)**. 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="PeppermintGrave" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## A small note
 
