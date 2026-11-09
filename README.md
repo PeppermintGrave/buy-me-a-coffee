@@ -29,7 +29,7 @@ This page is a small way to support my creative journey. If you've enjoyed somet
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/PeppermintGrave">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee%20:)&emoji=&slug=PeppermintGrave&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee :)" height="60">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee%20%3A%29&emoji=&slug=PeppermintGrave&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me a Coffee :)" height="60">
   </a>
 </p>
 
