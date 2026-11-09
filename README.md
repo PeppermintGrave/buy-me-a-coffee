@@ -29,7 +29,7 @@ This page is a small way to support my creative journey. If you've enjoyed somet
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/PeppermintGrave">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+    <img src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" alt="Buy Me a Coffee :)" height="60">
   </a>
 </p>
 
