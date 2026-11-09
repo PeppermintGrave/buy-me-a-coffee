@@ -4,7 +4,9 @@ If you’re here to buy me a coffee, thank you — I sincerely appreciate your s
 
 ## Support me
 
-Use the support link provided by **[PeppermintGrave](https://github.com/PeppermintGrave)**. If you don’t see a link here yet, please check my GitHub profile for the latest way to support me.
+If you really like my work, consider supporting me by buying me a coffee. Click on the following link to buy me a coffee. 
+Thank You. Every single support really means a lot to me.
+**[Buy Me a Coffee](https://buymeacoffee.com/peppermintgrave)**. 
 
 ## A small note
 
@@ -12,4 +14,4 @@ There’s no pressure to contribute. Visiting, sharing my work, and offering enc
 
 ---
 
-Made with gratitude 💚
+Made with dedication and love. :P
