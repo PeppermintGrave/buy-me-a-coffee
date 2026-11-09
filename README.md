@@ -106,6 +106,11 @@ Whether you're here to support, discover, or simply take a look around, I'm glad
   <sub>© 2026 PeppermintGrave</sub>
   <br><br>
   <a href="https://github.com/PeppermintGrave">
-    <img src="https://img.shields.io/badge/PeppermintGrave-171717?style=flat-square&logo=leaflet&logoColor=9FE6C0" alt="PeppermintGrave">
+    <svg xmlns="http://www.w3.org/2000/svg" width="205" height="38" viewBox="0 0 205 38" role="img" aria-label="PeppermintGrave">
+      <rect width="205" height="38" rx="8" fill="#101713"/>
+      <path d="M19 26C9 19 12 10 21 7C24 14 24 20 19 26Z" fill="#9FE6C0"/>
+      <path d="M19 26C20 17 25 13 30 12" fill="none" stroke="#9FE6C0" stroke-width="1.8" stroke-linecap="round"/>
+      <text x="38" y="25" fill="#9FE6C0" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="17" font-weight="bold" letter-spacing=".2">PeppermintGrave</text>
+    </svg>
   </a>
 </p>
