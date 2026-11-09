@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111111">
+  <meta name="description" content="Support PeppermintGrave and follow the journey.">
+
+  <title>Support Me</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #101010;
+      --surface: #1b1b1b;
+      --surface-soft: #242424;
+      --yellow: #ffdd00;
+      --text: #f7f7f2;
+      --muted: #a7a7a0;
+      --line: rgba(255, 221, 0, .19);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      min-height: 100vh;
+      margin: 0;
+      padding: 30px 18px;
+      display: grid;
+      place-items: center;
+      overflow-x: hidden;
+      color: var(--text);
+
+      background:
+        radial-gradient(
+          ellipse at 50% 0%,
+          rgba(255, 221, 0, .10),
+          transparent 48%
+        ),
+        radial-gradient(
+          ellipse at 8% 90%,
+          rgba(255, 221, 0, .045),
+          transparent 38%
+        ),
+        var(--bg);
+
+      font-family: "DM Sans", sans-serif;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      opacity: .12;
+
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.2'/%3E%3C/svg%3E");
+
+      mix-blend-mode: soft-light;
+    }
+
+    .page {
+      position: relative;
+      width: min(100%, 590px);
+    }
+
+    /* Banner */
+
+    .banner {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-height: 106px;
+      object-fit: contain;
+      margin: 0 auto 22px;
+      border-radius: 12px;
+    }
+
+    .topline {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 9px;
+      margin-bottom: 20px;
+
+      color: #c5c5bd;
+      font-size: 11px;
+      letter-spacing: .2em;
+      text-transform: uppercase;
+    }
+
+    .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--yellow);
+      box-shadow: 0 0 14px rgba(255, 221, 0, .8);
+    }
+
+    .card {
+      position: relative;
+      overflow: hidden;
+      padding: clamp(30px, 7vw, 52px) clamp(22px, 7vw, 48px) 32px;
+
+      text-align: center;
+
+      border: 1px solid var(--line);
+      border-radius: 24px;
+
+      background: linear-gradient(
+        145deg,
+        #202020,
+        #151515 78%
+      );
+
+      box-shadow:
+        0 28px 85px rgba(0, 0, 0, .48),
+        inset 0 1px rgba(255,255,255,.035);
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      width: 240px;
+      height: 150px;
+      top: -125px;
+      left: 50%;
+      transform: translateX(-50%);
+      border-radius: 50%;
+
+      background: rgba(255, 221, 0, .18);
+      filter: blur(48px);
+      pointer-events: none;
+    }
+
+    .mark {
+      position: relative;
+      display: grid;
+      place-items: center;
+
+      width: 58px;
+      height: 58px;
+      margin: 0 auto 23px;
+
+      color: #111;
+      background: var(--yellow);
+      border-radius: 18px;
+
+      box-shadow: 0 8px 30px rgba(255, 221, 0, .14);
+    }
+
+    .mark svg {
+      width: 27px;
+      height: 27px;
+    }
+
+    h1 {
+      position: relative;
+      margin: 0;
+
+      font: 700 clamp(29px, 7vw, 42px)/1.12
+        "Space Grotesk", sans-serif;
+
+      letter-spacing: -.055em;
+    }
+
+    h1 span {
+      color: var(--yellow);
+    }
+
+    .subtitle {
+      max-width: 370px;
+      margin: 16px auto 0;
+
+      color: #bdbdb5;
+      font-size: 14px;
+      line-height: 1.8;
+    }
+
+    .divider {
+      width: 42px;
+      height: 2px;
+      margin: 27px auto;
+
+      background: var(--yellow);
+      border-radius: 2px;
+    }
+
+    .support-title {
+      margin: 0 0 9px;
+
+      color: #f2f2ed;
+      font: 600 17px "Space Grotesk", sans-serif;
+    }
+
+    .support-copy {
+      max-width: 350px;
+      margin: 0 auto 22px;
+
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.75;
+    }
+
+    .button-wrap {
+      min-height: 48px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    /* Buy Me a Coffee button theme */
+
+    #bmc-wbtn {
+      background: #FFDD00 !important;
+      color: #101010 !important;
+    }
+
+    .socials {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 15px 10px;
+      margin-top: 25px;
+
+      justify-items: center;
+      align-items: center;
+    }
+
+    .social-link {
+      min-width: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      text-decoration: none;
+
+      transition: transform .2s ease;
+    }
+
+    .social-link:hover {
+      transform: translateY(-3px);
+    }
+
+    .social-badge {
+      display: block;
+      max-width: 100%;
+      height: 28px;
+      object-fit: contain;
+    }
+
+    .social-heading {
+      margin: 29px 0 12px;
+
+      color: #d8d8d1;
+
+      font: 600 12px "Space Grotesk", sans-serif;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .footnote {
+      margin: 25px 0 0;
+
+      color: #85857d;
+      font-size: 11px;
+    }
+
+    footer {
+      padding-top: 21px;
+
+      color: #77776f;
+      text-align: center;
+      font-size: 11px;
+    }
+
+    footer span {
+      color: var(--yellow);
+    }
+
+    @media (max-width: 420px) {
+      .card {
+        border-radius: 20px;
+      }
+
+      .socials {
+        gap: 13px 8px;
+      }
+
+      .banner {
+        margin-bottom: 18px;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after {
+        scroll-behavior: auto !important;
+        transition: none !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="page">
+
+    <!-- Banner -->
+
+    <img
+  class="banner"
+  src="https://raw.githubusercontent.com/PeppermintGrave/buy-me-a-coffee/main/assets/buymeacoffee-banner.png"
+  alt="PeppermintGrave | Buy Me a Coffee"
+>
+
+    <div class="topline">
+      <span class="dot"></span>
+      A little support goes a long way
+    </div>
+
+    <section class="card" aria-labelledby="page-title">
+
+      <div class="mark" aria-hidden="true">
+
+        <svg
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.7"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M12 21c-4.5-2.8-7.5-6.3-7.5-10.2A4.1 4.1 0 0 1 12 8.4a4.1 4.1 0 0 1 7.5 2.4C19.5 14.7 16.5 18.2 12 21Z"/>
+          <path d="M12 8.5c-1.5 2.1-1.6 4.1-.2 6.1M8.2 13.2c1.3.1 2.4.8 3.1 1.8"/>
+        </svg>
+
+      </div>
+
+      <h1 id="page-title">
+        Peppermint<span>Grave</span>
+      </h1>
+
+      <p class="subtitle">
+        A small corner of the internet for games, creativity,
+        and the things made along the way.
+      </p>
+
+      <div class="divider"></div>
+
+      <h2 class="support-title">
+        Discovering my work?
+      </h2>
+
+      <p class="support-copy">
+        Whether you're discovering my projects for the first time or have been around for a while, your support helps me keep creating. Every contribution is genuinely appreciated. <br></br>Thank you for being here.
+      </p>
+
+      <div class="button-wrap">
+
+        <!-- Original Buy Me a Coffee Button -->
+
+        <script
+          type="text/javascript"
+          src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
+          data-name="bmc-button"
+          data-slug="PeppermintGrave"
+          data-color="#FFDD00"
+          data-emoji=""
+          data-font="Comic"
+          data-text="Buy me a coffee :)"
+          data-outline-color="#101010"
+          data-font-color="#101010"
+          data-coffee-color="#101010">
+        </script>
+
+      </div>
+
+      <div class="social-heading">
+        Find me elsewhere
+      </div>
+
+      <div class="socials">
+
+        <!-- YouTube -->
+
+        <a
+          class="social-link"
+          href="https://www.youtube.com/@peppermint-grave"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="YouTube Peppermint Grave"
+        >
+          <img
+            class="social-badge"
+            src="https://img.shields.io/badge/YouTube-FFDD00?style=for-the-badge&logo=youtube&logoColor=171717"
+            alt="YouTube"
+          >
+        </a>
+
+        <!-- Discord -->
+
+        <a
+          class="social-link"
+          href="https://discord.com/users/1487251721486078153"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Discord PeppermintGrave"
+        >
+          <img
+            class="social-badge"
+            src="https://img.shields.io/badge/Discord-FFDD00?style=for-the-badge&logo=discord&logoColor=171717"
+            alt="Discord"
+          >
+        </a>
+
+        <!-- Twitch -->
+
+        <a
+          class="social-link"
+          href="https://www.twitch.tv/peppermintgrave"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Twitch PeppermintGrave"
+        >
+          <img
+            class="social-badge"
+            src="https://img.shields.io/badge/Twitch-FFDD00?style=for-the-badge&logo=twitch&logoColor=171717"
+            alt="Twitch"
+          >
+        </a>
+
+        <!-- X -->
+
+        <a
+          class="social-link"
+          href="https://x.com/NyctophileRealm"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="X NyctophileRealm"
+        >
+          <img
+            class="social-badge"
+            src="https://img.shields.io/badge/X-FFDD00?style=for-the-badge&logo=x&logoColor=171717"
+            alt="X"
+          >
+        </a>
+
+      </div>
+
+      <p class="footnote">
+        Thank you for being here.
+      </p>
+
+    </section>
+
+    <footer>
+      Made with care by <span>PeppermintGrave</span>
+    </footer>
+
+  </main>
+
+  <!-- Floating Buy Me a Coffee Widget -->
+
+  <script
+    data-name="BMC-Widget"
+    data-cfasync="false"
+    src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+    data-id="PeppermintGrave"
+    data-description="Support me on Buy me a coffee!"
+    data-message=""
+    data-color="#FFDD00"
+    data-position="Right"
+    data-x_margin="18"
+    data-y_margin="18">
+  </script>
+  <p align="center">
+    <img src="https://img.shields.io/badge/PeppermintGrave-171717?style=flat-square&logo=leaflet&logoColor=9FE6C0" alt="PeppermintGrave">
+  </p>
+
+</body>
+</html>
