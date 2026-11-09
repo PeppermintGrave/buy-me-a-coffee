@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PeppermintGrave | Support & About-FFDD00?style=for-the-badge&logo=linux&logoColor=000000" alt="PeppermintGrave | Support & About">
+  <img src="https://img.shields.io/badge/PeppermintGrave | Support & About--171717?style=flat-square&logo=tryhackme&logoColor=9FE6C0"  alt="PeppermintGrave | Support & About">
   <img src="assets/buymeacoffee-banner.png" alt="PeppermintGrave | Buy Me a Coffee" width="100%">
 </p>
 
